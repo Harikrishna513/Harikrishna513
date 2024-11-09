@@ -1,6 +1,5 @@
-# 💫 About Me:
-🌱 I’m currently learning Full Stack Development <br>💬 Ask me about Web Development <br>⚡ Fun fact Iam Lazy But Smart
-
+💫 About Me:
+🔭 I’m currently a Software Developer Intern at Mindfultalk.in (Parent Company: Chippersage)<br>💼 Skilled in Full-Stack Development with Spring Boot and React<br>🌱 I’m continuously learning and improving my skills in Java, MySQL, and AWS<br>💬 Ask me about Web Development, Full-Stack Projects, or Problem-Solving<br>⚡ Fun fact: I’m known for my efficiency and smart solutions!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishna-kuruva/) 
